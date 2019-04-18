@@ -1,7 +1,7 @@
 #Nginx
 
 variable "resource_group" {
-  description = "The name of your Azure Resource Group."
+  description = "The name of your Azure Resource Group. - new"
   default     = "rc-nginx-postgres-resource-group"
 }
 
